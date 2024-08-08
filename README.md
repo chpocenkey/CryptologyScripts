@@ -1,2 +1,2 @@
 # CryptologyScripts
-一些 C 语言的密码学脚本
+一些收集到的 C 语言的密码学脚本
